@@ -104,7 +104,7 @@ I hope the code looks interesting to you even though I couldn't finish all the A
 
 I wasn't familiar with sequelize and it took me a while to understand how the queries are built, still I think the 3 APIs I made meet the requirements.
 
-If I was able to finish the APIs, I would create a simple interface in plain Javascript to make it work with the backend,  please note the API /webapp I added.
+If I had finished the APIs, I would create a simple interface in plain Javascript to make it work with the backend,  please note the API /webapp I added.
 
 Thanks.
 
