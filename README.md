@@ -96,3 +96,15 @@ It would be great for example if you'd write some unit test / simple frontend de
 When you have finished the assignment, zip your repo (make sure to include .git folder) and send us the zip.
 
 Thank you and good luck! 🙏
+
+--
+## Comments about the code by Lawrence
+
+I hope the code looks interesting to you even though I couldn't finish all the APIs. I changed the code a little bit to organize it in different folders (Routes, Models, Controllers).
+
+I wasn't familiar with sequelize and it took me a while to understand how the queries are built, still I think the 3 APIs I made meet the requirements.
+
+If I was able to finish the APIs, I would create a simple interface in plain Javascript to make it work with the backend,  please note the API /webapp I added.
+
+Thanks.
+
